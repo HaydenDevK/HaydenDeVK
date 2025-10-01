@@ -1,8 +1,11 @@
 <div align="center">
   <h1>Hayden</h1>
-  <p><em>✨ Coding = Caring. create values with code. ✨</em></p>
-  <img width="368" height="670" alt="Hayden Coding gif" src="https://github.com/user-attachments/assets/939769db-b255-4694-bd78-c160d328820e" />  
+  <p><em>✨ Coding = Caring. create values with code. ✨</em></p>  
+  <br>
+  
+  ![Image](https://github.com/user-attachments/assets/4a19bc0d-d13e-44a5-8f30-67153643dc5f)
 </div>
+<br>
 
 ```js
 const HAYDEN = {
@@ -16,3 +19,4 @@ const HAYDEN = {
   mbti: "INTJ",
 };
 ```
+
