@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hayden</h1>
-  <p><em>✨ Coding = Caring. create values with code. ✨</em></p>  
+  <p><em>❤️‍🔥 Coding = Caring. create values with code. ❤️‍🔥</em></p>  
   <br>
   
   ![Image](https://github.com/user-attachments/assets/4a19bc0d-d13e-44a5-8f30-67153643dc5f)
