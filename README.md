@@ -6,7 +6,7 @@
 
 
 ```js
-const HAYDEN = {
+const HAYDEN:Engineer = {
   expertises: ["Frontend", "CI"],
   skills: ["TypeScript", "React.js", "Next.js", "Zustand", "Vitest", "Japanese", "System Desige"],
   interests: ["Clean Coding", "Vibe Coding", "Networkking・Communication", "Logical・Critical・Creative thinking"],
@@ -17,4 +17,3 @@ const HAYDEN = {
   mbti: "INTJ",
 };
 ```
-
